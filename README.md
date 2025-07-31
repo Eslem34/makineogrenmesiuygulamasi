@@ -1,2 +1,3 @@
 # makineogrenmesiuygulaması
-Veri seti kullanarak geliştirilen makine öğrenmesi uygulaması
+El yazısı ile yazılmış rakamları tanımaya yönelik bir makine öğrenmesi uygulaması geliştirilmiştir. Proje kapsamında, pyscreenshot kütüphanesi kullanılarak 0–9 arasındaki rakamların ekran görüntüleri alınmış ve bu görüntülerden özel bir veri seti oluşturulmuştur. Görseller 28x28 boyutuna getirilip piksel verilerine dönüştürülerek CSV formatında kaydedilmiştir. Oluşturulan veri seti ile scikit-learn kütüphanesi kullanılarak MLP ve SVC modelleri eğitilmiş, modellerin doğruluk oranları test verileri ile değerlendirilmiştir. Ayrıca, Paint uygulaması aracılığıyla çizilen rakamların gerçek zamanlı olarak tanınmasını sağlayan bir sistem oluşturulmuş ve eğitilen modelin pratik kullanımı gösterilmiştir.
+

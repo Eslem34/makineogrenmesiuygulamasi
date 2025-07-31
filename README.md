@@ -1,2 +1,2 @@
 # makineogrenmesiuygulaması
-Veri seti kullanılarak geliştirilen makine öğrenmesi uygulaması
+Veri seti kullanarak geliştirilen makine öğrenmesi uygulaması
